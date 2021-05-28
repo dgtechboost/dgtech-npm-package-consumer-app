@@ -1,4 +1,12 @@
-# DgtechNpmPackageConsumerApp
+# App Description
+
+This is an source code for an Angular app that is used in this article
+
+https://dgtechboost.com/2021/05/25/publish-npm-package-as-node-js-module/
+
+It is a basic generated app with minimal changes that are required to demonstrate how to consume, install, update the installed version of a npm package.
+
+## DgtechNpmPackageConsumerApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.0.5.
 
